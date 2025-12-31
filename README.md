@@ -2,7 +2,7 @@
 
 <h2>1001件のZara商品のサンプルデータセット</h2>
 
-![Zara products dataset header](https://github.com/luminati-io/Zara-dataset-sample/blob/main/Zara-datasets.png)
+![Zara products dataset header](https://github.com/bright-jp/Zara-dataset-sample/blob/main/Zara-datasets.png)
 
 1000件以上のレコードを含むZara商品のデータセットサンプルです。データセットは<b>Bright Data API</b>を使用して抽出されました。
 
