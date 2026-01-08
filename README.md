@@ -1,4 +1,4 @@
-# Zara-dataset-samples
+# Zara データセットサンプル
 
 <h2>1001件のZara商品のサンプルデータセット</h2>
 
